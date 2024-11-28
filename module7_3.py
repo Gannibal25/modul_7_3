@@ -1,6 +1,3 @@
-from project.module_3_5 import result
-
-
 class WordsFinder:
     def __init__(self, *file_names):
         self.file_names = list(file_names)
